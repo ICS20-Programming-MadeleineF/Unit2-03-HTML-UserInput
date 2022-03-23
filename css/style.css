@@ -1,19 +1,24 @@
 body{
-  
+  background-color:#fe5f55;
+  text-align:center;
 }
 
 h1{
-  
+  color:#fe5f55;
+  background-color:#eef5db;
+  padding:15px;
 }
 
 h3{
-  color:purple;
+  color:#eef5db;
 }
 
 label{
- background-color:blue; 
+  color:#fe5f55;
+ background-color:#eef5db; 
 }
 
 input{
-  background-color:red;
+  color:#fe5f55;
+  background-color:#eef5db;
 }
