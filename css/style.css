@@ -15,7 +15,12 @@ h3{
 
 label{
   color:#fe5f55;
- background-color:#eef5db; 
+  background-color:#eef5db; 
+}
+
+div{
+  color:#fe5f55;
+  background-color:#eef5db; 
 }
 
 input{
